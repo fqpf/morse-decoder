@@ -1,5 +1,5 @@
 const { expect } = require('chai');
-const { decode } = require('./src/index.js');
+const { decode } = require('./src');
 
 describe("Easy", function() {
     it("Sentence test 1", function() {
